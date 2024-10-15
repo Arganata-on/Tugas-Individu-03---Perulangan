@@ -1,7 +1,7 @@
 Penjelasan Tugas Individu 03 - Perulangan
 
 Kode program Tugas_03_Perulangan.cpp yang diberikan adalah sebuah program sederhana dalam bahasa C++ yang menghitung jumlah total bilangan genap dan ganjil dalam rentang yang ditentukan pengguna. Dibawah ini adalah penjelasan detail kode program tersebut :
-![Screenshot 2024-10-16 000916](https://github.com/user-attachments/assets/564b1513-fb06-452a-b934-f8919e751bb2)
+![Screenshot 2024-10-16 002511](https://github.com/user-attachments/assets/71408a2b-4565-4fcb-a0f0-4d937358cd9f)
 
 Output akan seperti dibawah ini, pengguna diminta menginput/memasukkan angka 10
 ![Screenshot 2024-10-15 234344](https://github.com/user-attachments/assets/e48156d9-bf9d-4d17-9913-b6cc470f4a9f)
